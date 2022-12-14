@@ -1,1 +1,28 @@
-
+body{
+  background-image:url(
+  "https://cdn.mos.cms.futurecdn.net/BfemybeKVXCf9pgX9WCxsc.jpg")
+}
+h1{ font-family:"Garamond", Serif;
+color:#D4D5C9;
+  font-size:800%;letter-spacing:10px;
+}
+ul{
+  list-style-type:none;
+  text-align: center;
+  position:fixed;
+  width:100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding:30px;
+  font-family:"Garamond", Serif;
+  color:#D4D5C9;
+  text-decoration-line:none;
+}
+li a:hover{
+  color:white;
+  text-decoration-line:underline;
+}
+#image1{width:50%}
